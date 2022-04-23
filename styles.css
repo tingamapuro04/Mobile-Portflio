@@ -62,7 +62,7 @@
   .year {
     margin-left: 100px;
     list-style-type: circle;
-    color:rgba(122, 134, 154, 1);
+    color: rgba(122, 134, 154, 1);
     font-size: 60px;
   }
 
@@ -93,15 +93,14 @@
     border-radius: 20px;
     width: 300px;
     font-size: 50px;
-    border: 2px solid #DFE1E6;
-    color: #396DF2;
+    border: 2px solid #dfE1e6;
+    color: #396df2;
   }
-  
-  .Four >p {
+
+  .Four > p {
     line-height: 100px;
     font-size: 100px;
     font-weight: 500;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   }
 }
-  
